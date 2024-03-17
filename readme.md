@@ -38,16 +38,17 @@ Write logic to construct and send requests to API endpoints from the server-side
 
 ```javascript
 // Example code to fetch posts from JSONPlaceholder API using JavaScript
-fetch('https://jsonplaceholder.typicode.com/posts')
-  .then(response => response.json())
-  .then(data => {
+fetch("https://jsonplaceholder.typicode.com/posts")
+  .then((response) => response.json())
+  .then((data) => {
     // Process fetched data here
     console.log(data);
   })
-  .catch(error => {
+  .catch((error) => {
     // Handle errors here
-    console.error('Error fetching data:', error);
+    console.error("Error fetching data:", error);
   });
+```
 
 # Step 8: Parse API Responses
 
@@ -82,4 +83,7 @@ Regularly monitor API usage and performance metrics, staying updated with any ch
 - [cURL](https://curl.se/): cURL website
 - [OAuth](https://oauth.net/): OAuth website
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript): MDN Web Docs
+
+```
+
 ```
