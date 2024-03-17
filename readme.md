@@ -18,6 +18,8 @@ Select an API that aligns with the website's data requirements and functionality
 
 Sign up for an account with the API provider and obtain an API key for authentication. Ensure the API key is securely stored and not exposed in client-side code.
 
+**NOTE:** This is only required by some APIs.
+
 ## Step 4: Test API Endpoint
 
 Utilize tools like Postman or cURL to test the API endpoint and verify expected data returns. Test various endpoints and parameters for comprehensive understanding.
@@ -83,7 +85,3 @@ Regularly monitor API usage and performance metrics, staying updated with any ch
 - [cURL](https://curl.se/): cURL website
 - [OAuth](https://oauth.net/): OAuth website
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript): MDN Web Docs
-
-```
-
-```
