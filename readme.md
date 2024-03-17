@@ -1,4 +1,4 @@
-# Title: Integrating API into a Website
+# Integrating API into a Website
 
 **Before You Begin: Understanding API Integration**
 
